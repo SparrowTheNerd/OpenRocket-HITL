@@ -1,2 +1,2 @@
 # OpenRocket-HITL
-A simulation extension for OpenRocket for software and hardware in-the-loop (S/HITL) testing
+An OpenRocket simulation extension aimed at SITL and HITL testing for my WINTER flight computer and under-development EKF.
